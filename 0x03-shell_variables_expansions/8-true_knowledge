@@ -1,3 +1,2 @@
 #!/bi/bash
 echo $(($TRUEKNOWLEDGE + 128))
-
